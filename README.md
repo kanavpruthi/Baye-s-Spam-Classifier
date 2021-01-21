@@ -5,3 +5,4 @@ This program is an Email spam/ non spam classifier that I've made in Jupyter Not
 This works on a given dataset and if you want to work with your own dataset, all you have to do is replace the current email files in the Pre-Processing notebooks with your own file formats and run the notebooks in the order Pre-processing --> Algorithm Training --> Testing and Evaluation. Images to be attached soon :)
 
 
+The data on which the spam emails are run are too big to be uploaded, so just comment or email me for the data if you need to run the code. :)
